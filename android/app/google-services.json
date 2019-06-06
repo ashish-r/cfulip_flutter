@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "342205850886",
+    "firebase_url": "https://cf-ulip-flutter.firebaseio.com",
+    "project_id": "cf-ulip-flutter",
+    "storage_bucket": "cf-ulip-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342205850886:android:e8776af22c00dc52",
+        "android_client_info": {
+          "package_name": "com.example.cfulip_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342205850886-7d5gbia7rqgvsb8mrn564643imkq2hm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cfulip_flutter",
+            "certificate_hash": "b040dddbc9da28c6ab179dd0400f2e109540a569"
+          }
+        },
+        {
+          "client_id": "342205850886-skralou18csop8tkl4hk2ddcbim10cb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYeYs_bx89V0MW9c7LRBDiuz0V99crNYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342205850886-skralou18csop8tkl4hk2ddcbim10cb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
