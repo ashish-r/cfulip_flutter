@@ -8,6 +8,6 @@ APIs used from: https://qa.coverfox.com/
 
 ## Getting Started
 
-Navigate to root directory and use: 
+Navigate to root directory and use: <br/>
 `flutter run` to build app in Debug Mode<br/>
 `flutter run --release`  to build app in Release Mode
