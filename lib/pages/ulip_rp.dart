@@ -41,7 +41,6 @@ class _UlipRpState extends State<UlipRp> {
                   ? null
                   : data['pastPerformance'].toDouble()))
           .toList();
-      print(quotes[0]);
       setState(() {
         _isLoading = false;
       });
