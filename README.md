@@ -20,7 +20,7 @@ Navigate to root directory and use: <br/>
 ![Results page][Results page]
 ![Push notification][Push notification]
 
-[Flutter form]: https://github.com/ashish-r/ashish-r.github.io/blob/master/resources/repos/cfulip_flutter/screenshots/Screenshot_20190606-155438.jpg
-[Flutter form validation]: https://github.com/ashish-r/ashish-r.github.io/blob/master/resources/repos/cfulip_flutter/screenshots/Screenshot_20190606-155450.jpg
-[Results page]: https://github.com/ashish-r/ashish-r.github.io/blob/master/resources/repos/cfulip_flutter/screenshots/Screenshot_20190606-155524.jpg
-[Push notification]: https://github.com/ashish-r/ashish-r.github.io/blob/master/resources/repos/cfulip_flutter/screenshots/Screenshot_20190606-163437.jpg
+[Flutter form]: https://github.com/ashish-r/ashish-r.github.io/blob/master/screenshots/Screenshot_20190606-155438.jpg
+[Flutter form validation]: https://github.com/ashish-r/ashish-r.github.io/blob/master/screenshots/Screenshot_20190606-155450.jpg
+[Results page]: https://github.com/ashish-r/ashish-r.github.io/blob/master/screenshots/Screenshot_20190606-155524.jpg
+[Push notification]: https://github.com/ashish-r/ashish-r.github.io/blob/master/screenshots/Screenshot_20190606-163437.jpg
